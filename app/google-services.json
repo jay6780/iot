@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "108727834405",
+    "firebase_url": "https://cea-iot-project-default-rtdb.firebaseio.com",
+    "project_id": "cea-iot-project",
+    "storage_bucket": "cea-iot-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108727834405:android:73ad09611895658cffeccc",
+        "android_client_info": {
+          "package_name": "com.cea.cea_iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108727834405-p16gb01mqu0q00lgo64l35nvgnhtobcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJXjm5eKpf0u3XB3pCtKiZAgz11pg-2r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108727834405-p16gb01mqu0q00lgo64l35nvgnhtobcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108727834405:android:59754c4d7c192c70ffeccc",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108727834405-p16gb01mqu0q00lgo64l35nvgnhtobcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJXjm5eKpf0u3XB3pCtKiZAgz11pg-2r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108727834405-p16gb01mqu0q00lgo64l35nvgnhtobcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

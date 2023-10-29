@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/menu_top"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_display"
+            android:icon="@drawable/ic_display"
+            android:title="Display" />
+
+        <item
+            android:id="@+id/nav_control"
+            android:icon="@drawable/ic_control"
+            android:title="Control" />
+
+        <item
+            android:id="@+id/nav_chart"
+            android:icon="@drawable/ic_chart"
+            android:title="Chart" />
+
+        <item
+            android:id="@+id/nav_img_classify"
+            android:icon="@drawable/ic_image_classify"
+            android:title="Image Classify" />
+
+    </group>
+
+    <group
+        android:id="@+id/menu_bottom">
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout"></item>
+
+    </group>
+</menu>
